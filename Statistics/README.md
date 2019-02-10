@@ -4,12 +4,12 @@
 
 ### Содержание:
 
-1. Описание данных:
+1. [Описание данных](https://github.com/maxbolgarin/educational_materials/blob/master/Statistics/1_data_description.ipynb):
     * Нормальное распределение, выборочные оценки.
     * Проврка гипотез: ошибки первого и второго рода.
     * Статистические критерии, критерии согласия.
     * Чувствительность критерия.
-2. Параметрические критерии:
+2. [Параметрические критерии](https://github.com/maxbolgarin/educational_materials/blob/master/Statistics/2_parametric_tests.ipynb):
     * Дисперсионный анализ.
     * Критерий Стьюдента.
     * Связанные выборки.
