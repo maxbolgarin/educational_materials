@@ -14,13 +14,15 @@
     * Критерий Стьюдента.
     * Связанные выборки.
     * Множественные сравнения.
-3. Анализ качественных признаков:
+3. [Анализ качественных признаков](https://github.com/maxbolgarin/educational_materials/blob/master/Statistics/3_qualitative_features.ipynb):
     * Z-критерий.
     * Таблицы сопряженности: критерий chi^2.
     * Точный критерий Фишера.
-4. Доверительные интервалы:
+4. [Доверительные интервалы](https://github.com/maxbolgarin/educational_materials/blob/master/Statistics/4_confidence_intervals.ipynb):
     * Построение доверительных интервалов.
     * Проверка гипотез с помощью доверительных интервалов.
-5. Непараметрические критерии:
+5. [Непараметрические критерии](https://github.com/maxbolgarin/educational_materials/blob/master/Statistics/5_nonparametric_tests.ipynb):
     * Критерий Манна—Уитни.
     * Критерий Уилкоксона.
+	* Критерий Крускала—Уоллиса.
+	* Критерий Фридмана.
