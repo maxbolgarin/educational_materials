@@ -24,5 +24,5 @@
 5. [Непараметрические критерии](https://github.com/maxbolgarin/educational_materials/blob/master/Statistics/5_nonparametric_tests.ipynb):
     * Критерий Манна—Уитни.
     * Критерий Уилкоксона.
-	* Критерий Крускала—Уоллиса.
-	* Критерий Фридмана.
+    * Критерий Крускала—Уоллиса.
+    * Критерий Фридмана.
